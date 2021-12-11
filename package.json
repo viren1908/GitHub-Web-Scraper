@@ -1,0 +1,24 @@
+{
+  "name": "GitHub-Web-Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viren1908/GitHub-Web-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viren1908/GitHub-Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/viren1908/GitHub-Web-Scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
